@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'nscsc' );
+define( 'DB_NAME', 'DzR4dQoR8G' );
 
 /** MySQL database username */
-define( 'DB_USER', 'tochukwuojinaka' );
+define( 'DB_USER', 'DzR4dQoR8G' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'developer' );
+define( 'DB_PASSWORD', 'Zq5yguZNTw' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'remotemysql.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
